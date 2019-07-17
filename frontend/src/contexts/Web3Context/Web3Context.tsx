@@ -35,10 +35,16 @@ export class Web3Provider extends React.PureComponent<
 > {
   constructor(props: IWeb3ContextProps) {
     super(props)
-    const web3Capable = !!window.ethereum
+
+    if (!window.thundercore) {
+      alert("Please install ThunderLink for better experience but I am gonna let you use MetaMask for now...")
+    }
+    const provider = window.thundercore || window.ethereum as IWeb3Provider;
+
+    const web3Capable = !!provider;
     this.state = {
       address: '',
-      signer: web3Capable && new EthersProvider(window.ethereum).getSigner(),
+      signer: web3Capable && new EthersProvider(provider).getSigner(),
       enabled: false,
       enabling: web3Capable && !!props.enableOnLoad
     }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b6fdab565dd6994ecdff0dad2c0409b",
+    "revision": "63ad1b338f30a0470f69008d44ac02b6",
     "url": "/bthunder/frontend/build/index.html"
   },
   {
-    "revision": "4b774e3b34caf7d44395",
+    "revision": "049e1d0de3c5cb1b0f35",
     "url": "/bthunder/frontend/build/static/css/main.a49b6ba7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bthunder/frontend/build/static/js/2.3c82b874.chunk.js"
   },
   {
-    "revision": "4b774e3b34caf7d44395",
-    "url": "/bthunder/frontend/build/static/js/main.56363bd9.chunk.js"
+    "revision": "049e1d0de3c5cb1b0f35",
+    "url": "/bthunder/frontend/build/static/js/main.263571ed.chunk.js"
   },
   {
     "revision": "d0f4eaf85e7c7b781b5a",

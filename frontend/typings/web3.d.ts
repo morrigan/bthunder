@@ -4,5 +4,6 @@ interface IWeb3Provider {
 }
 
 interface Window {
-  ethereum: IWeb3Provider
+  ethereum?: IWeb3Provider
+  thundercore?: IWeb3Provider
 }
