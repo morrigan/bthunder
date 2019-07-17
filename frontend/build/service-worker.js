@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bthunder/frontend/build/precache-manifest.0b5374eeaf3510d2851af0eb41b25b42.js"
+  "/bthunder/frontend/build/precache-manifest.5edd38802d6df44795dc5a1b021d5d1e.js"
 );
 
 self.addEventListener('message', (event) => {
