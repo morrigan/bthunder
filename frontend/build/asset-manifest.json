@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bthunder/frontend/build/static/css/main.a49b6ba7.chunk.css",
-    "main.js": "/bthunder/frontend/build/static/js/main.c3c19b4d.chunk.js",
-    "main.js.map": "/bthunder/frontend/build/static/js/main.c3c19b4d.chunk.js.map",
+    "main.js": "/bthunder/frontend/build/static/js/main.11ebc548.chunk.js",
+    "main.js.map": "/bthunder/frontend/build/static/js/main.11ebc548.chunk.js.map",
     "runtime~main.js": "/bthunder/frontend/build/static/js/runtime~main.ab0e21d8.js",
     "runtime~main.js.map": "/bthunder/frontend/build/static/js/runtime~main.ab0e21d8.js.map",
     "static/js/2.3c82b874.chunk.js": "/bthunder/frontend/build/static/js/2.3c82b874.chunk.js",
     "static/js/2.3c82b874.chunk.js.map": "/bthunder/frontend/build/static/js/2.3c82b874.chunk.js.map",
     "index.html": "/bthunder/frontend/build/index.html",
-    "precache-manifest.53282dad3b022f50b44366911841c8f3.js": "/bthunder/frontend/build/precache-manifest.53282dad3b022f50b44366911841c8f3.js",
+    "precache-manifest.0b5374eeaf3510d2851af0eb41b25b42.js": "/bthunder/frontend/build/precache-manifest.0b5374eeaf3510d2851af0eb41b25b42.js",
     "service-worker.js": "/bthunder/frontend/build/service-worker.js",
     "static/css/main.a49b6ba7.chunk.css.map": "/bthunder/frontend/build/static/css/main.a49b6ba7.chunk.css.map",
     "static/media/App.css": "/bthunder/frontend/build/static/media/bg.03b4fd11.jpg",
